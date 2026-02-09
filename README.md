@@ -1,4 +1,4 @@
-# Adaptive-K-Means-Clustering-Using-K-Means-and-Q-Learning
+# Adaptive Clustering using K-Means and Q-Learning
 This project explores unsupervised image clustering on CIFAR-10 using deep features extracted from a pretrained ResNet-18. Instead of manually choosing the number of clusters or the CNN layer, a Q-learning reinforcement learning agent is used to automatically optimize these parameters.
 
 The agent learns to select:
